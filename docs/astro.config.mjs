@@ -25,11 +25,11 @@ export default defineConfig({
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/catppuccin/userstyles",
+          href: "https://github.com/Sebagabones/userstyles",
         },
       ],
       editLink: {
-        baseUrl: "https://github.com/catppuccin/userstyles/edit/main/docs",
+        baseUrl: "https://github.com/Sebagabones/userstyles/edit/main/docs",
       },
       expressiveCode: {
         themes: ["catppuccin-mocha", "catppuccin-latte"],
