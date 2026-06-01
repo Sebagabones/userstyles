@@ -4,7 +4,7 @@ contact_links:
     url: https://github.com/catppuccin/catppuccin/discussions/new?category=port-requests
     about: Request for a website to be themed.
   - name: Submit a New Userstyle
-    url: https://github.com/catppuccin/userstyles/compare
+    url: https://github.com/Sebagabones/userstyles/compare
     about: Already made a theme? Submit a pull request to add it to the collection.
   - name: Community Discord
     url: https://discord.com/servers/catppuccin-907385605422448742
